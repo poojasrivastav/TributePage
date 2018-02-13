@@ -1,0 +1,22 @@
+body {
+  margin-top: 70px;
+}
+
+h2 {
+  font-family: 'Rubik Mono One'
+}
+
+h4 {
+   font-family: 'Meddon'
+}
+
+blockquote {
+  font-family: 'Schoolbell'
+}
+
+img {
+   width: 200px;
+    height: 200px;
+    margin: 5px;
+    border: 10px solid #ccc;
+}
